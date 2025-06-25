@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Faisal
+# 👋 Hi, I'm Shaik Fasi Ur Rahman
 
 🎓 B.Tech in Computer Science  
 💻 Learning Data Science and Python  
@@ -17,5 +17,5 @@
 - [Data Science Basics](https://github.com/fasi0536/Data-science) – Python + Mini Projects
 
 ## 📫 Connect With Me
-- LinkedIn: [[Add Your Profile]](https://www.linkedin.com/in/fasi-rahman-3313a7300/?originalSubdomain=in)
+- LinkedIn: (https://www.linkedin.com/in/fasi-rahman-3313a7300/?originalSubdomain=in)
 - Email: shaikfasi0536@gmail.com
